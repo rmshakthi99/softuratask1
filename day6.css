@@ -1,0 +1,49 @@
+html,body {
+  height:100%; 
+}
+*{
+  text-align: center;
+  margin: 0;
+}
+.wrapper{
+ /* background-color:pink;*/
+  background-color:rgb(223, 252, 227);
+  height: 100%;
+}
+h1{
+  background-color:pink;
+  color:black;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+#console{
+  text-align: left;
+}
+#try{
+  width: 150px;
+  margin: 2em;
+}
+.console{
+    /*background-color:pink;*/
+    background-color:rgb(223, 252, 227);
+    font-size:25px;
+    font-style:"arial";
+    font-weight:bold;
+    font-color:black
+
+}
+.container{
+  font-size : 25px;
+  font-color: red;
+  font-weight:bold;
+}
+h2{
+  background-color:greenyellow;
+  color:black;
+  padding-top: 0.3em;
+  padding-bottom: 0.3em;
+}
+
+
+
+}
